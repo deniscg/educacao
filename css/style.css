@@ -240,7 +240,7 @@ button {
 	font-weight: 600;
 }
 .main_bt {
-	background: #000;
+	background: rgb(105, 86, 214);
 	color: #fff;
 	padding: 10px 160px 10px 60px;
 	float: left;
